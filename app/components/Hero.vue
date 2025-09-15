@@ -56,7 +56,7 @@ onMounted(() => {
 			markers: true,
 		},
 	})
-
+	//@ts-ignore
 	videoRef.value.onloadedmetadata = () => {
 		tl.to(videoRef.value, {
 			currentTime: videoRef.value?.duration,

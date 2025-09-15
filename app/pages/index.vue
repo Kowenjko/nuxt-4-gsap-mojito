@@ -3,4 +3,5 @@
 <template>
 	<Hero />
 	<Cocktails />
+	<About />
 </template>
