@@ -2,4 +2,5 @@
 
 <template>
 	<Hero />
+	<Cocktails />
 </template>

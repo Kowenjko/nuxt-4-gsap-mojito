@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { navLinks } from '@/constants/index.js'
+import { navLinks } from '@/constants'
 
 onMounted(() => {
 	const navTween = gsapTimeline({
