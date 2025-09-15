@@ -14,7 +14,7 @@ onMounted(() => {
 		{ backgroundColor: 'transparent' },
 		{
 			backgroundColor: '#00000050',
-			backgroundFilter: 'blur(10px)',
+			backdropFilter: 'blur(10px)',
 			duration: 1,
 			ease: 'power1.inOut',
 		}
@@ -25,7 +25,7 @@ onMounted(() => {
 <template>
 	<nav>
 		<div>
-			<a href="#home" class="flex items-center gap-2">
+			<a href="#hero" class="flex items-center gap-2">
 				<img src="/images/logo.png" alt="logo" />
 				<p>Velvet Pour</p>
 			</a>
