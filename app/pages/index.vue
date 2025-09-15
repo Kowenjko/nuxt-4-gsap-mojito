@@ -1,3 +1,3 @@
 <script lang="ts" setup></script>
 
-<template>Index</template>
+<template><h1 class="text-center">Test</h1></template>
