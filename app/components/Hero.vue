@@ -1,7 +1,4 @@
 <script lang="ts" setup>
-import { useMediaQuery } from '@vueuse/core'
-
-const isMobile = useMediaQuery('(max-width: 767px)')
 const videoRef = useTemplateRef('videoRef')
 
 onMounted(() => {

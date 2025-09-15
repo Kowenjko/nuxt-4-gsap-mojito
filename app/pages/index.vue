@@ -4,4 +4,5 @@
 	<Hero />
 	<Cocktails />
 	<About />
+	<Art />
 </template>
