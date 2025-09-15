@@ -5,4 +5,5 @@
 	<Cocktails />
 	<About />
 	<Art />
+	<Menu />
 </template>
